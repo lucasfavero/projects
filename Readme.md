@@ -10,6 +10,7 @@ teste git
 /quit
 quit
 wq
-heuheuhe que noob 
+hreuheuhe que noob 
+eererwerdfgdfgdg:
 
 
